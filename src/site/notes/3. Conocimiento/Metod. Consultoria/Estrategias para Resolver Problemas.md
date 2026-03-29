@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-conocimiento/metod-consultoria/estrategias-para-resolver-problemas/"}
 ---
 
-
+Frente a un problema de negocio, incluso uno doméstico, que no logremos resolver, aquí se presenta un checklist que puede ofrecer orientación para encontrar su solución.
 
 | Estrategia                             | Explicación                                                                                                                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -23,6 +23,3 @@
 | **Verificar suposiciones**             | Enumerar y cuestionar cada supuesto para evitar cimientos erróneos.                                                                                                                        |
 | **Lluvia de ideas y poda**             | Generar ideas sin filtro y luego seleccionar las más prometedoras.                                                                                                                         |
 | **Hipotetizar y experimentar**         | Formular una hipótesis y testearla rápidamente para obtener retroalimentación.                                                                                                             |
-#conocimiento
-#problem_solving 
-#problem-solving-process 

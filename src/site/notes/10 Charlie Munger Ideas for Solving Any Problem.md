@@ -4,7 +4,7 @@
 
 # 🧠 10 Charlie Munger Ideas for Solving Any Problem
 
-Here are 10 powerful ideas extracted from [[Checklist de Charles Munger\|Checklist de Charles Munger]] 
+Here are 10 powerful ideas extracted from [[Checklist of Charles Munger\|Checklist of Charles Munger]] 
 
 ---
 
