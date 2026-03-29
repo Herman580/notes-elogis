@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-conocimiento/metod-consultoria/estrategias-para-resolver-problemas/","tags":["#conocimiento","#problem_solving","#problem-solving-process"]}
+{"dg-publish":true,"permalink":"/3-conocimiento/metod-consultoria/estrategias-para-resolver-problemas/"}
 ---
 
 
